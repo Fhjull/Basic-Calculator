@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic Calculator/task/Basic_Calculator.Basic_Calculator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic Calculator/task/Basic_Calculator.Basic_Calculator-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Average/Basic_Calculator.Topics-BigDecimal-Average.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Average/Basic_Calculator.Topics-BigDecimal-Average.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Deposit/Basic_Calculator.Topics-BigDecimal-Deposit.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Deposit/Basic_Calculator.Topics-BigDecimal-Deposit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Gold mining/Basic_Calculator.Topics-BigDecimal-Gold_mining.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Gold mining/Basic_Calculator.Topics-BigDecimal-Gold_mining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Multiplication/Basic_Calculator.Topics-BigDecimal-Multiplication.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Multiplication/Basic_Calculator.Topics-BigDecimal-Multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Rounding with a given precision/Basic_Calculator.Topics-BigDecimal-Rounding_with_a_given_precision.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Rounding with a given precision/Basic_Calculator.Topics-BigDecimal-Rounding_with_a_given_precision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Theory/Basic_Calculator.Topics-BigDecimal-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/BigDecimal/Theory/Basic_Calculator.Topics-BigDecimal-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Basic_Calculator.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Basic_Calculator.util.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\ae762bd2cd3a8d0c7fd3d5ca634bbbf3\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\dilla\.gradle\caches\transforms-3\341db1982135f60b64f6da7731e14c5b\transformed\material-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dilla\.gradle\caches\transforms-3\45f1aa466100f5b3af8ffe81c8457272\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\74a132e176fd2d96306d3f06a800c669\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\d99f5684e80e03bc4acc322f8d8277bd\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\2b87a76c3c7990233ff28572b7b8591d\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\28d1ca696a89450634fd36e737e75065\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\cca10be3df89b81b75694e8165fb3df6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\bb351987395f446b1cdd5587fb3e2f82\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\39ba4d05db5303df1414d838f59f1fd9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\27bfeb95486cda2dd732ad52c86db25d\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\19264b71a62acd6c5a2b0bf1569ac392\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\67d4fdba04dde00db5fcbd09824a315e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\a97b10b234e0bf81dc0e678ee2461666\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\eea95a07363cf72e6d938d7c9c3c6c87\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\52c89976976fdb5831c2bba66f0ae0d6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\860d03f6ad54b977025db4782f6bcdf7\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\c9560f6c0696e7c43dfb43cde4362a4b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\c3d64094b5a4529d053ad1a7bb3ce0a5\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\af948b75fe833f5d185b7d245961fbe5\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\df084f8818c34137a8d2224c92f951cf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\1e87bfd55a9af9e3e22d0bb3c4c3625d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\7f387ff6d0cfbc2c2d4584f4467107f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dilla\.gradle\caches\transforms-3\f7b914fa1e4cbf4e42786458a5a0aaff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dilla\.gradle\caches\transforms-3\6afc5755a2a1e72f85d003f5cefc484b\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\06c80d0cc0ebaa3d929b5111e4a073a5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\dd59ca92f2b0cd78165cfb85bea7a5a2\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\f40562cbf989c5d6135f1d59e50bcff9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\ee1f93b29720221ed33e3d6846672dee\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\4be27d0096726adb498bfb2ddaa7fe29\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\fd447b29da784a17cad354f4cefb297d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\0614da9f8fdd991dad47f24ecca479e6\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\1dc89db7a9c82681de5476b532cf897e\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\7d7df1d931710e16ed074f2a797b0ab6\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\dilla\.gradle\caches\transforms-3\341db1982135f60b64f6da7731e14c5b\transformed\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\dilla\.gradle\caches\transforms-3\341db1982135f60b64f6da7731e14c5b\transformed\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dilla\.gradle\caches\transforms-3\45f1aa466100f5b3af8ffe81c8457272\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dilla\.gradle\caches\transforms-3\45f1aa466100f5b3af8ffe81c8457272\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\af948b75fe833f5d185b7d245961fbe5\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\af948b75fe833f5d185b7d245961fbe5\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\7f387ff6d0cfbc2c2d4584f4467107f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\7f387ff6d0cfbc2c2d4584f4467107f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\af948b75fe833f5d185b7d245961fbe5\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.MainActivity
+ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:12:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\ae762bd2cd3a8d0c7fd3d5ca634bbbf3\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\ae762bd2cd3a8d0c7fd3d5ca634bbbf3\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\dilla\.gradle\caches\transforms-3\341db1982135f60b64f6da7731e14c5b\transformed\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\dilla\.gradle\caches\transforms-3\341db1982135f60b64f6da7731e14c5b\transformed\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dilla\.gradle\caches\transforms-3\45f1aa466100f5b3af8ffe81c8457272\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dilla\.gradle\caches\transforms-3\45f1aa466100f5b3af8ffe81c8457272\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\74a132e176fd2d96306d3f06a800c669\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\74a132e176fd2d96306d3f06a800c669\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\d99f5684e80e03bc4acc322f8d8277bd\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\d99f5684e80e03bc4acc322f8d8277bd\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\2b87a76c3c7990233ff28572b7b8591d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\2b87a76c3c7990233ff28572b7b8591d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\28d1ca696a89450634fd36e737e75065\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\28d1ca696a89450634fd36e737e75065\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\cca10be3df89b81b75694e8165fb3df6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\cca10be3df89b81b75694e8165fb3df6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\bb351987395f446b1cdd5587fb3e2f82\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\bb351987395f446b1cdd5587fb3e2f82\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\39ba4d05db5303df1414d838f59f1fd9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\39ba4d05db5303df1414d838f59f1fd9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\27bfeb95486cda2dd732ad52c86db25d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\dilla\.gradle\caches\transforms-3\27bfeb95486cda2dd732ad52c86db25d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\19264b71a62acd6c5a2b0bf1569ac392\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\19264b71a62acd6c5a2b0bf1569ac392\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\67d4fdba04dde00db5fcbd09824a315e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\67d4fdba04dde00db5fcbd09824a315e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\a97b10b234e0bf81dc0e678ee2461666\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\a97b10b234e0bf81dc0e678ee2461666\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\eea95a07363cf72e6d938d7c9c3c6c87\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\eea95a07363cf72e6d938d7c9c3c6c87\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\52c89976976fdb5831c2bba66f0ae0d6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\52c89976976fdb5831c2bba66f0ae0d6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\860d03f6ad54b977025db4782f6bcdf7\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\860d03f6ad54b977025db4782f6bcdf7\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\c9560f6c0696e7c43dfb43cde4362a4b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\c9560f6c0696e7c43dfb43cde4362a4b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\c3d64094b5a4529d053ad1a7bb3ce0a5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\c3d64094b5a4529d053ad1a7bb3ce0a5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\af948b75fe833f5d185b7d245961fbe5\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\dilla\.gradle\caches\transforms-3\af948b75fe833f5d185b7d245961fbe5\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\df084f8818c34137a8d2224c92f951cf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\df084f8818c34137a8d2224c92f951cf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\1e87bfd55a9af9e3e22d0bb3c4c3625d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\1e87bfd55a9af9e3e22d0bb3c4c3625d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\7f387ff6d0cfbc2c2d4584f4467107f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dilla\.gradle\caches\transforms-3\7f387ff6d0cfbc2c2d4584f4467107f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dilla\.gradle\caches\transforms-3\f7b914fa1e4cbf4e42786458a5a0aaff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dilla\.gradle\caches\transforms-3\f7b914fa1e4cbf4e42786458a5a0aaff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dilla\.gradle\caches\transforms-3\6afc5755a2a1e72f85d003f5cefc484b\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dilla\.gradle\caches\transforms-3\6afc5755a2a1e72f85d003f5cefc484b\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\06c80d0cc0ebaa3d929b5111e4a073a5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\06c80d0cc0ebaa3d929b5111e4a073a5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\dd59ca92f2b0cd78165cfb85bea7a5a2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\dd59ca92f2b0cd78165cfb85bea7a5a2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\f40562cbf989c5d6135f1d59e50bcff9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\f40562cbf989c5d6135f1d59e50bcff9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\ee1f93b29720221ed33e3d6846672dee\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\ee1f93b29720221ed33e3d6846672dee\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\4be27d0096726adb498bfb2ddaa7fe29\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\4be27d0096726adb498bfb2ddaa7fe29\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\fd447b29da784a17cad354f4cefb297d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\fd447b29da784a17cad354f4cefb297d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\0614da9f8fdd991dad47f24ecca479e6\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\0614da9f8fdd991dad47f24ecca479e6\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\1dc89db7a9c82681de5476b532cf897e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dilla\.gradle\caches\transforms-3\1dc89db7a9c82681de5476b532cf897e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\7d7df1d931710e16ed074f2a797b0ab6\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\dilla\.gradle\caches\transforms-3\7d7df1d931710e16ed074f2a797b0ab6\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dilla\AndroidStudioProjects\Basic Calculator\Basic Calculator\task\src\main\AndroidManifest.xml
